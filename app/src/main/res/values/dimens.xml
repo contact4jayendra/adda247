@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp13">13dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+
+    <!--font size-->
+    <dimen name="body_txt1">16sp</dimen>
+    <dimen name="body_txt2">14sp</dimen>
+    <dimen name="body_txt3">12sp</dimen>
+
+</resources>
