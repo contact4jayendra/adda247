@@ -2,7 +2,6 @@ package com.example.adda24.ui.main.adapter
 
 import android.annotation.SuppressLint
 import android.app.Activity
-import android.content.Context
 import android.text.TextUtils
 import android.view.LayoutInflater
 import android.view.View
@@ -11,7 +10,6 @@ import android.widget.TextView
 import androidx.annotation.NonNull
 import androidx.recyclerview.widget.RecyclerView
 import com.example.adda24.R
-import com.example.adda24.common.Constants
 import com.example.adda24.data.api.model.Data
 
 internal class UsersAdapter(list: ArrayList<Data>, val context: Activity) :
